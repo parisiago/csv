@@ -1,7 +1,2 @@
-name,age,country,occupation,salary
-Leanne Graham,38,USA,Devops Engineer,3000
-Ervin Howell,27,USA,Software Engineer,2300
-Clementine Bauch,17,Canada,Student,
-Patricia Lebsack,42,UK,Software Engineer,2800
-Leanne Bell,38,USA,Senior Software Engineer,4000
-Chelsey Dietrich,32,USA,Software Engineer,3500
+NOME,MATRÍCULA,SEXO,COR,ESCOLA,REGIONAL,TELEFONE,E-MAIL COORPORATIVO,GRUPO ATENDIMENTO,DATA ,DIA SEMANA,TURNO,OBSERVAÇÃO,dset_MES,dset_ANO,dset_SEMANA
+TEREZA CRISTINA SILVA SANTOS,3068569,FEMININO,PRETA,ARTE E ALEGRIA,CAJAZEIRAS,(71) 99168-4900,terezasantos@educacaosalvador.net,PROMOÇÃO,17/03/2025,SEGUNDA-FEIRA,MATUTINO,DIRETORA,3,2025,3
